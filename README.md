@@ -1,21 +1,26 @@
-<!--
-  GitHub profile README.
-  To use: create a public repo named exactly `jlibdev/jlibdev`
-  and drop this file in as README.md. GitHub renders it on
-  github.com/jlibdev automatically.
+<h1 align="center">Joshua Libando</h1>
 
-  Deliberately omits phone number and home address — this page is
-  public, scraped, and indexed. Keep those on the PDF you send directly.
--->
+<p align="center">
+  <strong>Full-Stack Developer</strong><br>
+  BS Computer Science &middot; Caraga State University, Philippines
+</p>
 
-# JLIBDEV
+<p align="center">
+  <a href="mailto:jlibandodev@gmail.com">Email</a> &middot;
+  <a href="https://github.com/jlibandogamedev">Game Dev Account</a> &middot;
+  <a href="https://jlibandogamedev.itch.io/">itch.io</a>
+</p>
 
-Full-Stack Developer. BS Computer Science at Caraga State University, Philippines.
+---
 
 I build web and mobile systems end to end — frontend, API, and the database
 underneath. Most of my work so far has been real systems for real users:
 university curriculum tooling, a government payroll system, and a finance app
 for a farmers association.
+
+Game development lives on a separate account,
+[**@jlibandogamedev**](https://github.com/jlibandogamedev) — playable builds are
+on [itch.io](https://jlibandogamedev.itch.io/).
 
 ## Currently
 
@@ -23,10 +28,6 @@ for a farmers association.
 Nuxt.js, TypeScript, NestJS, PostgreSQL, Kysely. I handle the database and
 designed the role-based access control covering Curriculum Committee,
 Department Chairperson, Faculty, and Student roles.
-
-<!-- If the OBEWISE repo is private or university-owned, say so explicitly
-     here — it explains why the work isn't visible on this profile. e.g.
-     "Source lives in a private university repository." -->
 
 ## Things I've built
 
@@ -41,14 +42,28 @@ Agriculture and the BIR. React Native, Laravel, PostgreSQL, SQLite.
 **Fogbound** — 2.5D maze game in Godot. Player movement, procedural map
 generation, and pathfinding for helper power-ups.
 
-<!-- None of the three above are public repos on this account right now.
-     Either link them, or leave them as written — describing unlinked work
-     is fine, claiming a link that 404s is not. -->
+## Tech stack
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=c,python,java,typescript,javascript" alt="C, Python, Java, TypeScript, JavaScript" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nuxtjs,tailwindcss" alt="React, Next.js, Nuxt.js, Tailwind CSS" />
+
+**Backend &amp; Databases**
+
+<img src="https://skillicons.dev/icons?i=laravel,nestjs,django,postgresql,mysql,sqlite" alt="Laravel, NestJS, Django, PostgreSQL, MySQL, SQLite" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,figma,godot,electron,tauri" alt="Git, Figma, Godot, Electron, Tauri" />
+
+Also React Native, Eloquent, Kysely, Puppeteer, and GDScript — no icons for
+those, but they show up across the work above.
 
 ## Public repositories
-
-<!-- Verify these descriptions before publishing — written from repo names,
-     not from reading the code. Fix anything that's off. -->
 
 - **AerialDroneObjectDetectionProject** — object detection on aerial drone
   imagery, using YOLOv8.
@@ -57,19 +72,13 @@ generation, and pathfinding for helper power-ups.
 - **automata_cfg** — context-free grammar tooling.
 - **PythonNativeCamScanner** — document scanning.
 
-## Stack
-
-**Languages** — C, Python, Java, TypeScript, JavaScript, GDScript
-**Frontend** — React.js, React Native, Next.js, Nuxt.js, Tailwind CSS
-**Backend** — Laravel, NestJS, Django, Eloquent, Kysely, REST APIs
-**Databases** — PostgreSQL, MySQL, SQLite
-**Tools** — Git, Figma, Godot, Electron, Tauri, Puppeteer
-
 ## Interested in
 
 Graphics programming, high-performance computing, simulation, and AI and human
 interaction.
 
-## Reach me
+---
 
-[jlibandodev@gmail.com](mailto:jlibandodev@gmail.com)
+<p align="center">
+  <a href="mailto:jlibandodev@gmail.com">jlibandodev@gmail.com</a>
+</p>
