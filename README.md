@@ -8,7 +8,7 @@
   public, scraped, and indexed. Keep those on the PDF you send directly.
 -->
 
-# Joshua Libando
+# JLIBDEV
 
 Full-Stack Developer. BS Computer Science at Caraga State University, Philippines.
 
